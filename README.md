@@ -1,8 +1,10 @@
 Objective:
 
-● Get experience with the PHP programming language;
-● Get experience with the Google Places API;
-● Get experience using JSON parsers in PHP and JavaScript.
+● Get experience with the PHP programming language
+
+● Get experience with the Google Places API
+
+● Get experience using JSON parsers in PHP and JavaScript
 
 Description:
 
